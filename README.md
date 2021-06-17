@@ -6,11 +6,11 @@ https://github.com/sequelize/cli
 
 
 Creating a empty folder in the local machine
-Go into the folder
-Git init
-Npm init
-Install NPM packages we need to install sequelize,nodemon,express,
-Postgres, sequelize-cli
+Go into the folder                                                     
+Git init                                                           
+Npm init                                                                          
+Install NPM packages we need to install sequelize,nodemon,express,                                                                                       
+Postgres, sequelize-cli                                                                                                        
  a. For Installing Sequelize - npm install sequelize
  b. For installing Nodemon- npm install nodemon
  c. For installing express- npm install express
