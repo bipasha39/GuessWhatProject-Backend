@@ -1,7 +1,7 @@
 # GuessWhatProject-Backend
 /////......Step by step.......///////
 Special links for getting more about backend packages and command lines are
-https://sequelize.org/master/index.html
+https://sequelize.org/master/index.html                      
 https://github.com/sequelize/cli
 
 
